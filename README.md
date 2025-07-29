@@ -8,7 +8,7 @@
 
 | 類別       | 技術                     |
 |------------|--------------------------|
-| 後端框架   | Flask                    |
+| 後端框架   | Python Flask                    |
 | 串接 API   | LINE Messaging API、OpenAI GPT |
 | 伺服器連線 | ngrok (本地 Webhook 測試) |
 | 環境管理   | `.env` + `os.getenv()`   |
