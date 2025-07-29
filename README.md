@@ -50,7 +50,9 @@ DS_LineBot/
 
 ```env
 OPENAI_API_KEY=your_openai_key
+
 LINE_CHANNEL_ACCESS_TOKEN=your_line_channel_token
+
 LINE_CHANNEL_SECRET=your_line_channel_secret
 
 pip install flask line-bot-sdk openai
